@@ -1,0 +1,4 @@
+AR mux behavioral /home/salma/PRESENTCIPHER/MUX.vhd sub00/vhpl01 1699233504
+AR reg_key behavioral /home/salma/PRESENTCIPHER/REG_KEY.vhd sub00/vhpl03 1699233452
+EN mux NULL /home/salma/PRESENTCIPHER/MUX.vhd sub00/vhpl00 1699233503
+EN reg_key NULL /home/salma/PRESENTCIPHER/REG_KEY.vhd sub00/vhpl02 1699233451

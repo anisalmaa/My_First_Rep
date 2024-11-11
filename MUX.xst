@@ -1,0 +1,5 @@
+set -tmpdir "/home/salma/PRESENTCIPHER/xst/projnav.tmp"
+set -xsthdpdir "/home/salma/PRESENTCIPHER/xst"
+elaborate
+-ifn MUX.prj
+-ifmt mixed
